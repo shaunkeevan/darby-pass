@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#FAEDC4"/>
+  <rect x="50" y="340" width="140" height="100" rx="18" fill="#fff" opacity="0.9"/>
+  <rect x="58" y="348" width="124" height="84" rx="14" fill="#D42027"/>
+  <text x="120" y="380" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#fff" text-anchor="middle">Sime</text>
+  <text x="120" y="406" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#fff" text-anchor="middle">Darby</text>
+  <text x="120" y="428" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#FFD700" text-anchor="middle">Property</text>
+  <text x="90" y="140" font-family="Georgia,serif" font-size="56" font-style="italic" fill="#1E293B" opacity="0.7">Darby Pass</text>
+  <text x="370" y="420" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#1E293B" text-anchor="middle">DP</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="40" fill="#FAEDC4"/>
+  <rect x="20" y="130" width="52" height="38" rx="8" fill="#fff" opacity="0.9"/>
+  <rect x="24" y="134" width="44" height="30" rx="6" fill="#D42027"/>
+  <text x="46" y="148" font-family="Arial,sans-serif" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">Sime</text>
+  <text x="46" y="158" font-family="Arial,sans-serif" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">Darby</text>
+  <text x="46" y="167" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#FFD700" text-anchor="middle">Property</text>
+  <text x="36" y="56" font-family="Georgia,serif" font-size="22" font-style="italic" fill="#1E293B" opacity="0.7">Darby Pass</text>
+</svg>
